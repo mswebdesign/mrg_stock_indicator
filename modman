@@ -1,0 +1,9 @@
+build/app/code/community/Symmetrics/StockIndicator/                                                     app/code/community/Symmetrics/StockIndicator/
+build/app/design/frontend/default/default/layout/stockindicator.xml                                     app/design/frontend/default/default/layout/stockindicator.xml
+build/app/design/frontend/default/default/template/stockindicator/product/view/type/configurable.phtml  app/design/frontend/default/default/template/stockindicator/product/view/type/configurable.phtml
+build/app/design/frontend/default/default/template/stockindicator/product/view/indicator.phtml          app/design/frontend/default/default/template/stockindicator/product/view/indicator.phtml
+build/app/etc/modules/Symmetrics_StockIndicator.xml                                                     app/etc/modules/Symmetrics_StockIndicator.xml
+build/app/locale/de_DE/Symmetrics_StockIndicator.csv                                                    app/locale/de_DE/Symmetrics_StockIndicator.csv
+build/js/symmetrics/stockindicator/                                                                     js/symmetrics/stockindicator/
+build/skin/frontend/default/default/css/stock_indicator.css                                             skin/frontend/default/default/css/stock_indicator.css
+build/skin/frontend/default/default/images/stockindicator/                                              skin/frontend/default/default/images/stockindicator/
