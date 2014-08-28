@@ -1,0 +1,7 @@
+{
+    "name":"symmetrics/symmetrics-stock-indicator",
+    "type":"magento-module",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
